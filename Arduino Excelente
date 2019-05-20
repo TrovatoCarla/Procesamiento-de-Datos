@@ -34,6 +34,10 @@ FUNCIONES Q PERMITAN
 ultrasonido
 https://programarfacil.com/tutoriales/fragmentos/sensor-de-ultrasonidos-con-arduino/
 
+Un actuador es un dispositivo capaz de transformar energía hidráulica, neumática o eléctrica en la activación de un proceso 
+con la finalidad de generar un efecto sobre elemento externo. Este recibe la orden de un regulador, controlador o en nuestro 
+caso un Arduino y en función a ella genera la orden para activar un elemento final de control como, por ejemplo, una válvula.
+
 
 
 
